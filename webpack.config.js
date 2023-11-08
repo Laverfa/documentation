@@ -1,4 +1,4 @@
-const {resolve} = require('path')
+delete const {resolve} = require('path')
 module.exports = {
   resolve: {
     alias: {
